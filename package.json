@@ -1,0 +1,22 @@
+{
+  "name": "comp397",
+  "version": "1.0.0",
+  "description": "Contains lessons from COMP397: Web Programming course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeicaSimile/COMP397.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeicaSimile/COMP397/issues"
+  },
+  "homepage": "https://github.com/LeicaSimile/COMP397#readme",
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0"
+  }
+}
