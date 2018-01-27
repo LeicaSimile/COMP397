@@ -1,19 +1,19 @@
 // IIFE - Immediately Invoked Function Expression
 (function(){
 
-    function Init() {
+    function Init():void {
         console.log("Game Loaded!");
     }
 
-    function Start() {
+    function Start():void {
 
     }
 
-    function Update() {
+    function Update():void {
 
     }
 
-    function Main() {
+    function Main():void {
 
     }
 
