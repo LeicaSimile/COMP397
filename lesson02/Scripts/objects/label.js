@@ -28,5 +28,6 @@ var objects;
         }
         return Label;
     }(createjs.Text));
+    objects.Label = Label;
 })(objects || (objects = {}));
 //# sourceMappingURL=label.js.map
